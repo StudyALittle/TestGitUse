@@ -39,7 +39,6 @@ public:
 
 int main(int argc, char *argv[])
 {
-    int aa;
     QApplication a(argc, argv);
     QtWidgetsApplication1 w;
     w.show();
